@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84f3345-1f01-4f61-8196-98a6d65d82d0" name="Changes" comment="completo esercizio" />
+    <list default="true" id="d84f3345-1f01-4f61-8196-98a6d65d82d0" name="Changes" comment="completo esercizio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +24,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/GhostPeppino2612/U4S1L4.git",
+    "accountId": "a4aa5fff-ac6e-404b-a0da-95272ae2ff6e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -42,6 +50,9 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/giuse/OneDrive/Desktop/files/corso/Back-end/U4S1L4/src/esercizio3&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/giuse/OneDrive/Desktop/files/corso/Back-end/U4S1L4/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
 }</component>
@@ -61,6 +72,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728056775070</updated>
     </task>
+    <task id="LOCAL-00001" summary="completo esercizio">
+      <option name="closed" value="true" />
+      <created>1728060853660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728060853660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completo esercizio" />
+    <option name="LAST_COMMIT_MESSAGE" value="completo esercizio" />
   </component>
 </project>
