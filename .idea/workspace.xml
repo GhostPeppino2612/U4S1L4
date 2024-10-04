@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d84f3345-1f01-4f61-8196-98a6d65d82d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/U4S1L4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/Dipartimento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio1/entities/Dipendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio2/entities/Dipendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio2/entities/DipendenteFullTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio2/entities/DipendentePartTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio2/entities/Dirigente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/entities/Dipendente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/entities/DipendenteFullTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/entities/DipendentePartTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/entities/Dirigente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/entities/Volontario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/esercizio3/interfaces/CheckIn.java" afterDir="false" />
-    </list>
+    <list default="true" id="d84f3345-1f01-4f61-8196-98a6d65d82d0" name="Changes" comment="completo esercizio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2mylc9EOyA1PoZcPm98EGZCIlkR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/giuse/OneDrive/Desktop/files/corso/Back-end/U4S1L4/src/esercizio3",
-    "onboarding.tips.debug.path": "C:/Users/giuse/OneDrive/Desktop/files/corso/Back-end/U4S1L4/src/Main.java",
-    "settings.editor.selected.configurable": "proofread"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/giuse/OneDrive/Desktop/files/corso/Back-end/U4S1L4/src/esercizio3&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/giuse/OneDrive/Desktop/files/corso/Back-end/U4S1L4/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\giuse\OneDrive\Desktop\files\corso\Back-end\U4S1L4\src\esercizio3" />
@@ -84,5 +62,28 @@
       <updated>1728056775070</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
